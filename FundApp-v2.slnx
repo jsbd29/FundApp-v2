@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FundApp-v2.Application/FundApp-v2.Application.csproj" />
+    <Project Path="src/FundApp-v2.Domain/FundApp-v2.Domain.csproj" />
+    <Project Path="src/FundApp-v2.Infrastructure/FundApp-v2.Infrastructure.csproj" />
+    <Project Path="src/FundApp-v2/FundApp-v2.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FundApp-v2.IntegrationTests/FundApp-v2.IntegrationTests.csproj" />
+    <Project Path="tests/FundApp-v2.UnitTests/FundApp-v2.UnitTests.csproj" />
+  </Folder>
+</Solution>
