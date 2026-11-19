@@ -19,4 +19,9 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\FundApp-v2.Domain\FundApp-v2.Domain.csproj" />
+    <ProjectReference Include="..\..\src\FundApp-v2.Application\FundApp-v2.Application.csproj" />
+  </ItemGroup>
+
 </Project>

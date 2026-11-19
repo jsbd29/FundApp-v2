@@ -11,4 +11,9 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.15" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FundApp-v2.Application\FundApp-v2.Application.csproj" />
+    <ProjectReference Include="..\FundApp-v2.Infrastructure\FundApp-v2.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
