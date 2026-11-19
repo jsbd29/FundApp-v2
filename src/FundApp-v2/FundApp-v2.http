@@ -1,0 +1,6 @@
+@FundApp_v2_HostAddress = http://localhost:5131
+
+GET {{FundApp_v2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
